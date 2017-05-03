@@ -1,0 +1,5 @@
+debug.mak文件中的
+LIBRARY_DIRS := /home/lht
+修改成libTCPServer.a放置路径
+
+或者把libTCPServer.a拷贝到/lib64下
